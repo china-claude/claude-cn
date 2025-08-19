@@ -1,6 +1,6 @@
 # Claude 国内最新使用指南~ （支持 Claude 4 Sonnet，稳定好用）【2025年8月更新】
 
-> 更新：**2025/08/19**        
+> 更新：**2025/08/20**        
 
 在国内轻松使用 [**Claude 中文版**](https://chat.lanjingai.org) 教程，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**   
 
@@ -26,12 +26,12 @@
 
 | 网站链接                                                       | 网站名称            | 支持功能                                                                                  |
 |---------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------------------|
-| [xsimplechat.com](https://xsimplechat.com/)                  | Claude 中文版       | 支持 Claude-4、Claude-3.7、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~                 |
-| [chat.lanjingai.org](https://chat.lanjingai.org/)                 | Claude 中文站       | 支持 Claude 4 sonnet、Grok 3、GPT-4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~      |
-| [chat.lify.vip](https://chat.yixiaai.com)                     | Claude 镜像网站     | 支持 Claude-4、Claude-3.7、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~|
-| [chat.chatgpt-chinese.com](https://chat.lanjingai.org/)         | ChatGPT 镜像网站    | 支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）                                           |
-| [ai.lansejingyu.com](https://ai.lansejingyu.com/)             | ChatGPT-4 镜像     | 支持 GPT4、4o，简单便捷~                                                                  |
-| [lanjing.ai](https://lanjing.pro/)                           | 免费ChatGPT         | 支持 GPT4、4o 支持 MJ 绘画                                                                |
+| [xsimplechat.com](https://xsimplechat.com/)                  | Claude 中文版       | 支持 Claude-4、Claude-3.7、GPT-5、o1、o3及Grok-3，支持 AI绘画，扫码就能用~                 |
+| [chat.lanjingai.org](https://chat.lanjingai.org/)                 | Claude 中文站       | 支持 Claude 4 sonnet、Grok 4、GPT-5、4o、o1、o3 及 DeepSeek R1 最先进的模型，无限使用~      |
+| [chat.lify.vip](https://chat.yixiaai.com)                     | Claude 镜像网站     | 支持 Claude-4、Claude-3.7、GPT-4、o1、o3及Grok-4，AI文件、AI PPT、AI助手、AI插件功能、思维导图~|
+| [chat.chatgpt-chinese.com](https://chat.lanjingai.org/)         | ChatGPT 镜像网站    | 支持 GPT5、4o，支持AI绘画（Midjourney和Dall·E）                                           |
+| [ai.lansejingyu.com](https://ai.lansejingyu.com/)             | ChatGPT-5 镜像     | 支持 GPT5、4o，简单便捷~                                                                  |
+| [lanjing.ai](https://lanjing.pro/)                           | 免费ChatGPT         | 支持 GPT5、4o 支持 MJ 绘画                                                                |
 
 ---
 
